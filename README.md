@@ -77,11 +77,12 @@
 
 ### 🔋其他资料
 
-| 内容         | 说明                   | 链接                                                         |
-| ------------ | :--------------------- | ------------------------------------------------------------ |
-| 电子课本     | 一些电子书             | 1.链接：https://pan.baidu.com/s/1JbG63RAJsNYEBjZhSxKdEQ?pwd=y7rx <br/>提取码：y7rx <br/>2.链接：https://pan.baidu.com/s/14T4PhbEu7gITBegqh8TRrQ?pwd=gki8 <br/>提取码：gki8 <br/>--来自百度网盘超级会员V2的分享 |
-| 实验报告封面 | 手撸了个官方封面电子版 | 链接：https://pan.baidu.com/s/1r_GxsyuWNQEVn4lBHVeTVg?pwd=9vo8 <br/>提取码：9vo8 <br/>--来自百度网盘超级会员V2的分享 |
-
-
+| 内容                                         | 说明                          | 链接                                                         |
+| -------------------------------------------- | :---------------------------- | ------------------------------------------------------------ |
+| 电子课本                                     | 一些电子书                    | 1.链接：https://pan.baidu.com/s/1JbG63RAJsNYEBjZhSxKdEQ?pwd=y7rx <br/>提取码：y7rx <br/>2.链接：https://pan.baidu.com/s/14T4PhbEu7gITBegqh8TRrQ?pwd=gki8 <br/>提取码：gki8 <br/>--来自百度网盘超级会员V2的分享 |
+| 实验报告封面                                 | 手撸了个官方封面电子版        | 链接：https://pan.baidu.com/s/1r_GxsyuWNQEVn4lBHVeTVg?pwd=9vo8 <br/>提取码：9vo8 <br/>--来自百度网盘超级会员V2的分享 |
+| PPT模板                                      | 一些PPT模板                   | 1.链接：https://pan.baidu.com/s/1pRS2CbfDaLouVPUeq0K_fw?pwd=vy8h <br/>提取码：vy8h <br/>-2.链接：https://pan.baidu.com/s/1rD2WMIdyPPOMnUJKgqHppQ?pwd=8lnk <br/>提取码：8lnk <br/>--来自百度网盘超级会员V2的分享 |
+| 中国矿业大学Beamer模板(CUMT-Beamer-Template) | Beamer学术风格，组会汇报首选~ | [lgy0404/CUMT-Beamer-Template: 中国矿业大学Beamer模板 (github.com)](https://github.com/lgy0404/CUMT-Beamer-Template) |
+| 公文常用字体                                 | 已经上传仓库                  | 见仓库 `./公文常用几款字体` 文件夹                           |
 
 ❤️对你有帮助的话点个star吧~❤️
