@@ -84,5 +84,6 @@
 | PPT模板                                      | 一些PPT模板                   | 1.链接：https://pan.baidu.com/s/1pRS2CbfDaLouVPUeq0K_fw?pwd=vy8h <br/>提取码：vy8h <br/>-2.链接：https://pan.baidu.com/s/1rD2WMIdyPPOMnUJKgqHppQ?pwd=8lnk <br/>提取码：8lnk <br/>--来自百度网盘超级会员V2的分享 |
 | 中国矿业大学Beamer模板(CUMT-Beamer-Template) | Beamer学术风格，组会汇报首选~ | [lgy0404/CUMT-Beamer-Template: 中国矿业大学Beamer模板 (github.com)](https://github.com/lgy0404/CUMT-Beamer-Template) |
 | 公文常用字体                                 | 已经上传仓库                  | 见仓库 `./公文常用几款字体` 文件夹                           |
+| 校徽院徽                                     | 校徽院徽矢量图                | 见仓库 `./校徽院徽` 文件夹                                   |
 
 ❤️对你有帮助的话点个star吧~❤️
