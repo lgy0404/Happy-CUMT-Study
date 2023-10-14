@@ -39,7 +39,7 @@
 | C++程序设计（理论）                  | 思维导图、课件、题库、作业         | 链接：https://pan.baidu.com/s/1Ugqgv4HnCexzXgi2HqZ_wg?pwd=c7fv <br/>提取码：c7fv <br/>--来自百度网盘超级会员V2的分享 |
 | 文献检索与科技论文写作               | 作业、笔记、课件                   | 链接：https://pan.baidu.com/s/1irSIaweQYPxjQtoXHMkM5w?pwd=s0no <br/>提取码：s0no <br/>--来自百度网盘超级会员V2的分享 |
 | 日语入门                             | 上课视频                           | 1.链接：https://pan.baidu.com/s/1lTNj-JTv-FFoS-U9AIjTQA?pwd=4mea <br/>提取码：4mea <br/>2.链接：https://pan.baidu.com/s/1i9SpdA8jEk9zofJxSCUqrg?pwd=f8v6 <br/>提取码：f8v6 <br/>--来自百度网盘超级会员V2的分享 |
-| 电路实验                             | 实验报告                           | 链接：https://pan.baidu.com/s/19Yh1uOk67ZNGnuztT6h9MA?pwd=kfx2 <br/>提取码：kfx2 <br/>--来自百度网盘超级会员V2的分享 |
+| 电路实验                             | 实验报告                           | 链接：https://pan.baidu.com/s/1-ig-Fj6dCPrZ69pMWQ8XWg <br/>提取码：m7n3 <br/>--来自百度网盘超级会员V2的分享 |
 | 综合英语                             | 结课作业                           | 1.链接：https://pan.baidu.com/s/19Yh1uOk67ZNGnuztT6h9MA?pwd=kfx2 <br/>提取码：kfx2 <br/>2.链接：https://pan.baidu.com/s/1NlNHMAB_Hp3jFkqMKRmb0Q?pwd=0uxy <br/>提取码：0uxy <br/>3.链接：https://pan.baidu.com/s/1jC7nPQUf-sveC3BBk-Mm0Q?pwd=3uza <br/>提取码：3uza <br/>--来自百度网盘超级会员V2的分享 |
 | 电路                                 | 真题、mooc、PPT                    | 链接：https://pan.baidu.com/s/1a9tA9eulab_MVDWHgyyewQ?pwd=pfne <br/>提取码：pfne <br/>--来自百度网盘超级会员V2的分享 |
 | 物理实验                             | 实验报告、要求                     | 链接：https://pan.baidu.com/s/1UITKeoteZPjofhcArMgrDA?pwd=44h6 <br/>提取码：44h6 <br/>--来自百度网盘超级会员V2的分享 |
