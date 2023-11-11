@@ -47,11 +47,11 @@
 | 概率论                               | 上课视频、思维导图、课本、课件     | 1.链接：https://pan.baidu.com/s/1mWO68TqHQzTX4dudfDFAmg?pwd=nl8i <br/>提取码：nl8i <br/>2.链接：https://pan.baidu.com/s/1yIq-ox8zHCfUvvdSea6VQQ?pwd=nf6d <br/>提取码：nf6d <br/>--来自百度网盘超级会员V2的分享 |
 | 工程数学                             | 真题、课件、笔记                   | 链接：https://pan.baidu.com/s/1kWrKZlWkIPJGT8dNupgZHA?pwd=o4vf <br/>提取码：o4vf <br/>--来自百度网盘超级会员V2的分享 |
 | python（公选）                       | 结课作业                           | 链接：https://pan.baidu.com/s/1eSH5QGhXQAIObefmLhN7iQ?pwd=3evh <br/>提取码：3evh <br/>--来自百度网盘超级会员V2的分享 |
-| 马原                                 | 课件、作业、题目                   | 链接：https://pan.baidu.com/s/1P31hd00lPFmrAN3cqN069Q?pwd=zfmy <br/>提取码：zfmy <br/>--来自百度网盘超级会员V2的分享 |
+| 马原                                 | 课件、作业、题目                   | 链接：https://pan.baidu.com/s/1JVXkERxE5gQYd5DuZQjNHA <br/>提取码：m44b <br/>--来自百度网盘超级会员V3的分享 |
 | 计算机网络                           | 题目、课件、视频                   | 链接：https://pan.baidu.com/s/1IOWVN02GdCqtjrn4kN7s9w?pwd=jkuv <br/>提取码：jkuv <br/>--来自百度网盘超级会员V2的分享 |
 | 模电                                 | 实验                               | 1.链接：https://pan.baidu.com/s/1W-FT9Uc2uSpR3ntLrVHt4Q?pwd=bb1h <br/>提取码：bb1h <br/>2.链接：https://pan.baidu.com/s/1L79jkxSBom4f7AUig3AT-g?pwd=028u <br/>提取码：028u <br/>3.链接：https://pan.baidu.com/s/1TL2weYvEeQxKzFt52569Lg?pwd=ymfc <br/>提取码：ymfc <br/>--来自百度网盘超级会员V2的分享 |
-| 数电                                 | 真题、mooc、笔记、实验             | 1.链接：https://pan.baidu.com/s/1JhC5BR9eNMEUOdcheZnFSQ?pwd=hc6c <br/>提取码：hc6c <br/>2.链接：https://pan.baidu.com/s/1XuEsgWYvh6m3Ha6BF3HAsg?pwd=sv9w <br/>提取码：sv9w <br/>--来自百度网盘超级会员V2的分享 |
-| 微机原理与应用                       | 作业、真题、回放、课件、课本、实验 | 链接：https://pan.baidu.com/s/1AVKWB-zFdXoi88OzQYkwnw?pwd=iwzw <br/>提取码：iwzw <br/>--来自百度网盘超级会员V2的分享 |
+| 数电                                 | 真题、mooc、笔记、实验             | 链接：https://pan.baidu.com/s/1EN8drvhSEkyn0RESSbx6FA <br/>提取码：zdjw <br/>--来自百度网盘超级会员V3的分享 |
+| 微机原理与应用                       | 作业、真题、回放、课件、课本、实验 | 链接：https://pan.baidu.com/s/1mvKkpkmBRtsY12QQreVsnQ <br/>提取码：ijty <br/>--来自百度网盘超级会员V3的分享 |
 | 信号与线性系统                       | 真题                               | 链接：https://pan.baidu.com/s/1TvpY-iLln13fcMNirXT0Qw?pwd=9iss <br/>提取码：9iss <br/>--来自百度网盘超级会员V2的分享 |
 | 传统手艺（公选）                     | 结课展示、课件                     | 链接：https://pan.baidu.com/s/19YpN1vcSDwbv_hCWjLpvHA?pwd=m4a0 <br/>提取码：m4a0 <br/>--来自百度网盘超级会员V2的分享 |
 | 传感器与检测                         | 课件、笔记、作业                   | 链接：https://pan.baidu.com/s/1eXU3vwfLm-zMyoV5aich3g?pwd=rpkf <br/>提取码：rpkf <br/>--来自百度网盘超级会员V2的分享 |
