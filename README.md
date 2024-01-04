@@ -65,7 +65,7 @@
 | 漫谈网络安全                         | 结课材料                           | 链接：https://pan.baidu.com/s/1C_ZP6EmPxC1zoS0b886lmQ?pwd=o0m5 <br/>提取码：o0m5 <br/>--来自百度网盘超级会员V2的分享 |
 | python（专业课）                     | 课件、实验报告                     | 链接：https://pan.baidu.com/s/1MyVOxotbHV-_CE8TxuY6wg?pwd=g3mz <br/>提取码：g3mz <br/>--来自百度网盘超级会员V2的分享 |
 | 电力电子技术                         | 课件、实验报告、电子书             | 链接：https://pan.baidu.com/s/1oT2U1NlGdWIyiacsFMrQFg?pwd=vifv <br/>提取码：vifv <br/>--来自百度网盘超级会员V2的分享 |
-| 计算机控制技术                       | 复习题、大作业、笔记、实验         | 链接：https://pan.baidu.com/s/1l482MyvXvOoIuZ-ED_5uZQ?pwd=jkn7 <br/>提取码：jkn7 <br/>--来自百度网盘超级会员V2的分享 |
+| 计算机控制技术                       | 复习题、大作业、笔记、实验         | 链接：https://pan.baidu.com/s/1HPcNOoALE0s6EFUN1CZH7Q  <br/>提取码：q8tp <br/>--来自百度网盘超级会员V4的分享 |
 | 自动控制原理                         | 笔记、真题、课件、实验             | 链接：https://pan.baidu.com/s/1mSMRkY_PJ43KkaF2t2vMww?pwd=kxos <br/>提取码：kxos <br/>--来自百度网盘超级会员V2的分享 |
 | 电机拖动                             | 视频、课件、作业、实验             | 1.链接：https://pan.baidu.com/s/1wG-q-JwhpeHNmt_kjjIFHQ?pwd=tge1 <br/>提取码：tge1 <br/>2.链接：https://pan.baidu.com/s/1B_j3oOHjknIwbcLMkpXKzA?pwd=8x3a <br/>提取码：8x3a <br/>--来自百度网盘超级会员V2的分享 |
 | 机器人实验（好像是一个两学分的选修） | 程序、实验报告                     | 链接：https://pan.baidu.com/s/1mhV3enHOBMmqJ53jdBoQGA?pwd=x7ig <br/>提取码：x7ig <br/>--来自百度网盘超级会员V2的分享 |
